@@ -1,2 +1,2 @@
 # Interview-Preperation
-This repository contain important questions on DS and Algo.
+This repository contain important questions on DS and Algo in Python.
